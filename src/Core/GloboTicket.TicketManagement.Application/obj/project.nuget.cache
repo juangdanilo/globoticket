@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "N9IR5sqDKp0=",
+  "dgSpecHash": "SJuupckFW9s=",
   "success": true,
-  "projectFilePath": "/Users/juangalindo/Documents/GitHub/dotnet/globoticket/src/Core/GloboTicket.TicketManagement.Application/GloboTicket.TicketManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/juangalindo/Documents/GitHub/dotnet/GloboTicket/src/Core/GloboTicket.TicketManagement.Application/GloboTicket.TicketManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/juangalindo/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/Users/juangalindo/.nuget/packages/fluentvalidation/12.0.0-preview1/fluentvalidation.12.0.0-preview1.nupkg.sha512",
+    "/Users/juangalindo/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/juangalindo/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/juangalindo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/juangalindo/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/juangalindo/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

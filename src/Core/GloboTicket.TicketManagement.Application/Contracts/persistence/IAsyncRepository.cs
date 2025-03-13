@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-using System.Threading.Tasks;
-
 namespace GloboTicket.TicketManagement.Application.Contracts.Persistence
 {
     public interface IAsyncRepository<T> where T : class
