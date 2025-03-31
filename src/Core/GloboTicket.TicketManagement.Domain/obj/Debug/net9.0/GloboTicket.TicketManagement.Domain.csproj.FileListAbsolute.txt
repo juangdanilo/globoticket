@@ -9,3 +9,4 @@
 /Users/juangalindo/Documents/GitHub/dotnet/globoticket/src/Core/GloboTicket.TicketManagement.Domain/obj/Debug/net9.0/refint/GloboTicket.TicketManagement.Domain.dll
 /Users/juangalindo/Documents/GitHub/dotnet/globoticket/src/Core/GloboTicket.TicketManagement.Domain/obj/Debug/net9.0/GloboTicket.TicketManagement.Domain.pdb
 /Users/juangalindo/Documents/GitHub/dotnet/globoticket/src/Core/GloboTicket.TicketManagement.Domain/obj/Debug/net9.0/ref/GloboTicket.TicketManagement.Domain.dll
+/Users/juangalindo/Documents/GitHub/dotnet/globoticket/src/Core/GloboTicket.TicketManagement.Domain/obj/Debug/net9.0/GloboTicket.TicketManagement.Domain.sourcelink.json
