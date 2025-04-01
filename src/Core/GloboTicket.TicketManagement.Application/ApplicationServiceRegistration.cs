@@ -1,4 +1,6 @@
+using GloboTicket.TicketManagement.Application.Contracts.Infrastructure;
 using Microsoft.Extensions.DependencyInjection;
+
 
 namespace GloboTicket.TicketManagement.Application
 {
@@ -8,6 +10,10 @@ namespace GloboTicket.TicketManagement.Application
         {
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(AppDomain.CurrentDomain.GetAssemblies()));
+            
+            // Registrar ICsvExporter
+            //services.AddTransient<ICsvExporter, CsvExporter>(); // Reemplaza CsvExporter con tu implementación
+
 
             return services;
         }
