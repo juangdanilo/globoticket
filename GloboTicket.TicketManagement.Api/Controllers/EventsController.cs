@@ -3,8 +3,8 @@ using GloboTicket.TicketManagement.Application.Features.Events.Commands.CreateEv
 using GloboTicket.TicketManagement.Application.Features.Events.Commands.DeleteEvent;
 using GloboTicket.TicketManagement.Application.Features.Events.Commands.UpdateEvent;
 using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventDetail;
-using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventList;
 using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventsExport;
+using GloboTicket.TicketManagement.Application.Features.Events.Queries.GetEventsList;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
